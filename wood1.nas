@@ -6,5 +6,7 @@ quit
 msg %6You: %fThis parkour is very relaxing
 delay 1000
 msg Suddenly, you can jump again!
-motd -hax jumpheight=1.2
+delay 1000
+motd -hax jumpheight=0.6 model = 57
+msg However, you shrink to the size of a tiny frog.
 quit
